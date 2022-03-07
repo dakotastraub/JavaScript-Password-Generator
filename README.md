@@ -11,3 +11,6 @@ Usage
 Open the password generator URL in your browser.
 Generate a random password by clicking the "Generate Password" button and following the prompts.
 Built With: HTML / CSS / JavaScript
+
+
+<img width="719" alt="Screenshot 2022-03-06 193812 png 1_7" src="https://user-images.githubusercontent.com/98859025/156949807-9430afeb-fe87-4ed7-9719-9b1db05c2910.png">
