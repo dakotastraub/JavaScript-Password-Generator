@@ -10,7 +10,4 @@ Randomly generated passwords can provide greater security for sensitive data. HT
 Usage
 Open the password generator URL in your browser.
 Generate a random password by clicking the "Generate Password" button and following the prompts.
-Built With
-HTML
-CSS
-JavaScript
+Built With: HTML / CSS / JavaScript
